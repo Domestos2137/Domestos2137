@@ -1,4 +1,4 @@
-## Witam na moim profilu 👋🙂 (Szczególnie pana Jacka Haję 😀)
+## Elo
 
 <!--
 **Domestos2137/Domestos2137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
